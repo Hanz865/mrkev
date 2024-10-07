@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 ahoj kamo
 pridej neco
 
+=======
+meloun
+paprika
+lusk
+cuketa
+cibule
+>>>>>>> 3181f1e78896499dae20c3555d6ebe231a02e836
